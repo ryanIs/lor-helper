@@ -7,6 +7,7 @@ This application is still under development, however it will utilize NodeJS, Ele
 # Key features
 
 - Card tracking (for both players)
+- Quick-view game history page
 - Game Statistics and more features!
 
 # Disclaimer
